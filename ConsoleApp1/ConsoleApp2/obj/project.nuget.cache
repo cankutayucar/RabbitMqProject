@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3EvbEKQ1sIr19jDDyQKUTDXl9acy87XLDg3OY8Gp8Mt1JKoe0MDxOI/W5z3Wos3tp6ox7IRpxSJkZLosv85c+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\canku\\OneDrive\\Masaüstü\\rabbitmqnetcore\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\canku\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\canku\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\canku\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

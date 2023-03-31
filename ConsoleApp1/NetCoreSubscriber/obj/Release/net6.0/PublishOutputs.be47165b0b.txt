@@ -1,0 +1,7 @@
+C:\Users\canku\OneDrive\Masaüstü\rabbitmqnetcore\ConsoleApp1\NetCoreSubscriber\bin\Release\net6.0\publish\NetCoreSubscriber.exe
+C:\Users\canku\OneDrive\Masaüstü\rabbitmqnetcore\ConsoleApp1\NetCoreSubscriber\bin\Release\net6.0\publish\NetCoreSubscriber.dll
+C:\Users\canku\OneDrive\Masaüstü\rabbitmqnetcore\ConsoleApp1\NetCoreSubscriber\bin\Release\net6.0\publish\NetCoreSubscriber.deps.json
+C:\Users\canku\OneDrive\Masaüstü\rabbitmqnetcore\ConsoleApp1\NetCoreSubscriber\bin\Release\net6.0\publish\NetCoreSubscriber.runtimeconfig.json
+C:\Users\canku\OneDrive\Masaüstü\rabbitmqnetcore\ConsoleApp1\NetCoreSubscriber\bin\Release\net6.0\publish\NetCoreSubscriber.pdb
+C:\Users\canku\OneDrive\Masaüstü\rabbitmqnetcore\ConsoleApp1\NetCoreSubscriber\bin\Release\net6.0\publish\RabbitMQ.Client.dll
+C:\Users\canku\OneDrive\Masaüstü\rabbitmqnetcore\ConsoleApp1\NetCoreSubscriber\bin\Release\net6.0\publish\System.Threading.Channels.dll

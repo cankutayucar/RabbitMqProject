@@ -1,0 +1,19 @@
+
+
+
+publisher => rabbitmq(kuyruğa) ya mesajları iletir  
+exchange => gelen mesajları ilgili kuyruklara rootlar
+subscriber => rabbitmq dan ilgili kuyruğu dinleyen uygulamadır
+
+docker run -d -p 5672:5672 -p 15672:15672 --name rabbitmqcontainer rabbitmq:3.11.11-management
+
+
+exchange type 
+
+fanout exchange => herhangi bir filtreleme yapmadan tüm kuyruklara producer in ürettiği aynı mesajı gönderir
+
+direct exchange =>
+
+topic exchange =>
+
+header exchange => 

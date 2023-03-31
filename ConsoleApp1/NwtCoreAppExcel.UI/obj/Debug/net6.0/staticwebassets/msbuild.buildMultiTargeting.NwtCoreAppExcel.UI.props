@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NwtCoreAppExcel.UI.props" />
+</Project>
