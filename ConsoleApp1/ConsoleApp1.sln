@@ -13,11 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreSubscriber", "NetCor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreApp.Web", "NetCoreApp.Web\NetCoreApp.Web.csproj", "{9F2912C5-4B10-40B6-ABBC-B405C9E470C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NwtCoreAppExcel.UI", "NwtCoreAppExcel.UI\NwtCoreAppExcel.UI.csproj", "{92D85A57-FF9F-4774-9E05-E048F3E65F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NwtCoreAppExcel.UI", "NwtCoreAppExcel.UI\NwtCoreAppExcel.UI.csproj", "{92D85A57-FF9F-4774-9E05-E048F3E65F72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{E71B7218-80D7-4210-B23C-8E8B19671896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{E71B7218-80D7-4210-B23C-8E8B19671896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCreateWorkerService", "FileCreateWorkerService\FileCreateWorkerService.csproj", "{D64739AB-AF29-41EE-80FC-3361CD63FF5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileCreateWorkerService", "FileCreateWorkerService\FileCreateWorkerService.csproj", "{D64739AB-AF29-41EE-80FC-3361CD63FF5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mt.Producer", "mt.Producer\mt.Producer.csproj", "{1E701978-AB36-4A2C-8B0E-42ECBC644076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mt.Consumer", "mt.Consumer\mt.Consumer.csproj", "{BB595602-FC4B-4C83-8C7A-92EC635B5E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mt.worker.publisher", "mt.worker.publisher\mt.worker.publisher.csproj", "{F508975A-F8C9-4FA2-8162-D77E220818DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mt.worker.consumer", "mt.worker.consumer\mt.worker.consumer.csproj", "{5D39DF5F-E3EA-4FEA-B85F-A075EEBC3310}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{D64739AB-AF29-41EE-80FC-3361CD63FF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D64739AB-AF29-41EE-80FC-3361CD63FF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D64739AB-AF29-41EE-80FC-3361CD63FF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E701978-AB36-4A2C-8B0E-42ECBC644076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E701978-AB36-4A2C-8B0E-42ECBC644076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E701978-AB36-4A2C-8B0E-42ECBC644076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E701978-AB36-4A2C-8B0E-42ECBC644076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB595602-FC4B-4C83-8C7A-92EC635B5E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB595602-FC4B-4C83-8C7A-92EC635B5E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB595602-FC4B-4C83-8C7A-92EC635B5E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB595602-FC4B-4C83-8C7A-92EC635B5E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F508975A-F8C9-4FA2-8162-D77E220818DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F508975A-F8C9-4FA2-8162-D77E220818DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F508975A-F8C9-4FA2-8162-D77E220818DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F508975A-F8C9-4FA2-8162-D77E220818DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D39DF5F-E3EA-4FEA-B85F-A075EEBC3310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D39DF5F-E3EA-4FEA-B85F-A075EEBC3310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D39DF5F-E3EA-4FEA-B85F-A075EEBC3310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D39DF5F-E3EA-4FEA-B85F-A075EEBC3310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

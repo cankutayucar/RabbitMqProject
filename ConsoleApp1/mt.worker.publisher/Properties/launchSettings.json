@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "mt.worker.publisher": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
